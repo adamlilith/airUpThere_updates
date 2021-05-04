@@ -1,2 +1,2 @@
 # airUpThere_updates
- Latest versions of URLs for airUpThere
+ Latest versions of URLs and variable names for airUpThere
